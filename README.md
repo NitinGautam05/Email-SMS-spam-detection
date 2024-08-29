@@ -36,7 +36,7 @@ Several machine learning algorithms were employed to build and evaluate the spam
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/spam-classifier.git
+   git clone https://github.com/NitinGautam05/Email-SMS-spam-detection.git
    ```
 
 ## Results
